@@ -1,0 +1,21 @@
+# list of changes
+changelog:
+  - Example changelog entry
+  - Another changelog entry
+# optional:
+# this is info for the authorship of the changelog
+# if this is not set, person who merged the release PR will be used as an author
+author_name: John Doe
+author_email: johndoe@example.com
+# whether to release on fedora. False by default
+fedora: false
+# list of fedora branches bot should release on. Master is always implied
+fedora_branches:
+  - f27
+# list of labels to be put on issues and PRs created by bot
+labels:
+  - bot
+  - release-bot
+  - user-cont
+# whether to allow bot to make PRs based on issues
+trigger_on_issue: true
