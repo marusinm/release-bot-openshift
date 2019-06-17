@@ -1,1 +1,1 @@
-# release-bot-openshift
+create new release
