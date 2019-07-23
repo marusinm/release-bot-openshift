@@ -1,3 +1,7 @@
+# 0.2.40
+
+* update reasme
+
 # 0.2.39
 
 * I hope this will be working
