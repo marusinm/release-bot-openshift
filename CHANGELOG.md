@@ -1,3 +1,8 @@
+# 0.2.40
+
+* update readme
+* nazdar zjazdar
+
 # 0.2.39
 
 * I hope this will be working
