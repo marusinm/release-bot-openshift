@@ -1,6 +1,8 @@
 # 0.2.36
 
-No changelog provided
+* There was no big change in this release
+* Hope you are doing well
+
 # 0.2.35
 
 * new change
