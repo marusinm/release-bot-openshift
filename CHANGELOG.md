@@ -1,6 +1,7 @@
 # 0.2.38
 
-No changelog provided
+* actually, there is no change in this release
+
 # 0.2.37
 
 * super duper change
