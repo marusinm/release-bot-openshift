@@ -1,6 +1,7 @@
 # 0.2.40
 
-* update reasme
+* update readme
+* nazdar zjazdar
 
 # 0.2.39
 
