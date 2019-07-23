@@ -1,3 +1,8 @@
+# 0.2.36
+
+* There was no big change in this release
+* Hope you are doing well
+
 # 0.2.35
 
 * new change
