@@ -1,3 +1,8 @@
+# 0.2.41
+
+* Update README.md
+* local edit
+
 # 0.2.40
 
 * update readme
