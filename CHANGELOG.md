@@ -1,3 +1,9 @@
+# 0.2.41
+
+* Update README.md
+* local edit
+* mergin edit
+
 # 0.2.40
 
 * update readme
