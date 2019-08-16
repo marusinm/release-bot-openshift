@@ -1,3 +1,6 @@
+# 0.2.48
+
+No changelog provided
 # 0.2.47
 
 No changelog provided
