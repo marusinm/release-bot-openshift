@@ -1,5 +1,9 @@
 # 0.2.48
 
+* 0.2.48 release
+
+# 0.2.48
+
 No changelog provided
 # 0.2.47
 
